@@ -1,1 +1,1 @@
-# front-end-capstone
+# capstone-central
