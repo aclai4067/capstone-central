@@ -18,9 +18,9 @@
 ### DEADLINES
 
 * **Monday 11/27/2017:** Initial Proposal Due
-* **Saturday 12/2/17:** User stories, tickets, wireframes due
-* **Saturday 12/2/17:** 1-on-1s with mentor to determine MVP
-* **Monday 12/4/17:** Coding begins - assuming your mentor was satisfied with your planning saturday
+* **Saturday 12/2/2017:** User stories, tickets, wireframes due
+* **Saturday 12/2/2017:** 1-on-1s with mentor to determine MVP
+* **Monday 12/4/2017:** Coding begins - assuming your mentor was satisfied with your planning saturday
 * **Monday 12/18/2017:** MVP is due 
 * **Saturday 1/6/2017:** Capstone Demos
 
