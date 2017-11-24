@@ -5,7 +5,7 @@
 
 
 ### Instructors Available:
-Once coding starts instructors will be available to help you at these days and time:
+Once coding starts instructors will be available to help you these days/times:
 
 **Week 1:**
 * Monday 12/4/2017 5-9:30pm
