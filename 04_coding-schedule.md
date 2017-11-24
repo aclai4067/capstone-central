@@ -1,6 +1,6 @@
 # Coding Schedule
 
-* You may start coding when your capstone mentor is satisfied with your preparation verbally tells you that you may start coding.
+* You may start coding when your capstone mentor is satisfied with your preparation and tells you to start coding.
 * The first official day for coding is Monday 12/4/2017.  If you do not have permission to start coding by this monday you are behind.
 
 
