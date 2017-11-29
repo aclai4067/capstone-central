@@ -8,22 +8,22 @@
 Once coding starts instructors will be available to help you these days/times:
 
 **Week 1:**
-* Monday 12/4/2017 5-9:30pm
-* Tuesday 12/5/2017 5-9:30pm
-* Wednesday 12/6/2017 5-9:30pm
-* Thursday 12/7/2017 5-9:30pm
-* Saturday 12/9/2017 9am-2pm
+* Monday 12/4/2017 5-9:30pm (all instructors available)
+* Tuesday 12/5/2017 5-9:30pm (all instructors available)
+* Wednesday 12/6/2017 5-9:30pm (Zoe and Callan available)
+* Thursday 12/7/2017 5-9:30pm (Zoe and Lauren available)
+* Saturday 12/9/2017 9am-2pm (all instructors available)
 
 **Week 2:**
-* Monday 12/11/2017 5-9:30pm
-* Tuesday 12/12/2017 5-9:30pm
-* Wednesday 12/13/2017 5-9:30pm
+* Monday 12/11/2017 5-9:30pm (all instructors available)
+* Tuesday 12/12/2017 5-9:30pm (all instructors available)
+* Wednesday 12/13/2017 5-9:30pm (Zoe and Lauren available)
 * Thursday 12/14/2017 5-9:30pm
-* Saturday 12/16/2017 9am-2pm
+* Saturday 12/16/2017 9am-2pm (all instructors available)
 
 **Week 3 - MVP demos:**
-* Monday 12/18/2017 5-9:30pm
-* Tuesday 12/19/2017 5-9:30pm
+* Monday 12/18/2017 5-9:30pm (all instructors available)
+* Tuesday 12/19/2017 5-9:30pm (all instructors available)
 
 
 ### Expectations:
