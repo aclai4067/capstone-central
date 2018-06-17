@@ -2,7 +2,7 @@
 
 ### REQUIREMENTS
 ##### Technical Requirements:
-* Angular
+* React
 * Firebase CRUD
 * Bootstrap
 * It is NOT required to use an external API.
@@ -20,10 +20,10 @@
 
 ### DEADLINES
 
-* **Monday 11/27/2017:** Initial Proposal Due (Use the Google Doc format provided by the instructors.)
-* **Saturday 12/2/2017:** User stories, tickets, wireframes due
-* **Saturday 12/2/2017:** 1-on-1s with mentor to determine MVP
-* **Monday 12/4/2017:** Coding begins - assuming your mentor was satisfied with your planning saturday
-* **Monday 12/18/2017:** MVP is due 
-* **Saturday 1/6/2017:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
+* **Monday 7/7/2018:** Initial Proposal Due (Use the Google Doc format provided by the instructors.)
+* **Saturday 7/14/2018:** User stories, tickets, wireframes due
+* **Saturday 7/14/2018:** 1-on-1s with mentor to determine MVP
+* **Monday 7/16/2018:** Coding begins - assuming your mentor was satisfied with your planning saturday
+* **Monday 7/31/2018:** MVP is due 
+* **Saturday 8/18/2018:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
 
