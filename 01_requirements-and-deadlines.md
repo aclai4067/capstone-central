@@ -10,7 +10,7 @@
 ##### Planning:
 * Use Github Projects for planning
 * Create wireframes
-* If you are using an external API, gather all sample data and do a test call (via AJAX of $http in a local project) before committing to use the API.
+* If you are using an external API, gather all sample data and be prepared to demo your api at your first checkin (via axios call - use the first react project we made) before committing to use the API.
 * If you have not fleshed out your planning enough, your capstone mentor will not let you code.
 
 ##### Project NoNos:
