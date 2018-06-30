@@ -16,7 +16,7 @@
 ##### Project NoNos:
 * Projects shouldn't be something for your dayjob
 * Projects shouldn't be for someone who will pay you :moneybag:.
-* For your own good, don't build calendars into your app.
+* For your own good, don't build calendars into your app or try to use the spotify API.
 
 ### DEADLINES
 
