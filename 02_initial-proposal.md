@@ -13,7 +13,6 @@
 1. The working title of your application
 1. Paragraph overviewing your application and how it will work
 1. Paragraph talking about your motivation for building this project (what problem does it solve, why are you personally invested in this).
-1. Paragraph talking about your personal developer goals for the capstone (skills you want to practice/emphasize/show-off).
 1. Paragraph talking about the rough features you want to build (and identify whether you think each is a stretch or not).
 
 #### A Decent Proposal
