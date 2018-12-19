@@ -25,5 +25,5 @@
 * **Saturday 1/19/2019:** 1-on-1s with mentor to determine MVP
 * **Monday 1/21/2019:** Coding begins - assuming your mentor was satisfied with your planning saturday
 * **Monday 2/6/2019:** MVP is due (this is a wednesday)
-* **Saturday 2/23/2018:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
+* **Saturday 2/23/2019:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
 
