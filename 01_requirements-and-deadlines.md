@@ -20,10 +20,10 @@
 
 ### DEADLINES
 
-* **Monday 1/7/2019:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md))
-* **Saturday 1/19/2019:** User stories, tickets, wireframes due
-* **Saturday 1/19/2019:** 1-on-1s with mentor to determine MVP
-* **Monday 1/21/2019:** Coding begins - assuming your mentor was satisfied with your planning saturday
-* **Monday 2/6/2019:** MVP is due (this is a wednesday)
-* **Saturday 2/23/2019:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
+* **Monday 7/8/2019:** Initial Proposal Due (Use the Google form found on the [initial proposal page](./02_initial-proposal.md))
+* **Saturday 7/13/2019:** User stories, tickets, wireframes due
+* **Saturday 7/13/2019:** 1-on-1s with mentor to determine MVP
+* **Monday 7/15/2019:** Coding begins - assuming your mentor was satisfied with your planning saturday
+* **Wednesday 7/31/2019:** MVP is due (this is a wednesday)
+* **Tuesday 8/13/2019:** Capstone Demos. [Use this guide to Demo](https://docs.google.com/document/d/1-yNEwKpis-E84qjFjbfwig2zCkB0BAZIHY473wTdqBQ/edit?usp=sharing).
 
